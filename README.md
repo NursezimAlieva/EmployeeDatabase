@@ -1,4 +1,3 @@
-![Снимок экрана 2025-04-06 181541](https://github.com/user-attachments/assets/cd54edf2-55de-46cb-b9bc-4a728849b8a8)
 # Employee Management System
 
 This Python application allows for managing employee records using SQLite. It provides CRUD (Create, Read, Update, Delete) operations on an `employee` table.

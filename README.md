@@ -63,3 +63,5 @@ Handles all database operations related to the `employee` table.
 ## Notes
 - The script creates the database file (`employee_db.sqlite`) in the same directory if it does not exist.
 - The `hire_date` is set to the current date by default when a new `Employee` is created.
+
+  ![Снимок экрана 2025-04-06 182809](https://github.com/user-attachments/assets/6be41b7b-a8e2-4db1-a5af-2b82d8cc9930)
